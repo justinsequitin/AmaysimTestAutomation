@@ -18,7 +18,7 @@ I want to refer a friend
     input text    ${ReferAFriendEmailTextbox}    ${ReferAFriendEmail}
     click element    ${ReferAFriendMessageBox}
     press keys    ${ReferAFriendMessageBox}    COMMAND+a
-    sleep    1
+    input text    ${ReferAFriendMessageBox}    ${ReferAFriendMessage}
     press keys    ${ReferAFriendMessageBox}    COMMAND+v
     click button    ${ReferAFriendShareButton}
     wait until element is visible    ${ReferAFriendSuccess}    60

@@ -32,7 +32,7 @@ ${ReferAFriendCopyLinkButton}    id:s
 ${ReferAFriendEmailTextbox}    id:a
 ${ReferAFriendEmail}    dummyacc222111@gmail.com
 ${ReferAFriendMessageBox}    id:b
-${ReferAFriendMessage}    Hello World!
+${ReferAFriendMessage}    Hello! Follow this link:
 ${ReferAFriendShareButton}    id:c
 ${ReferAFriendSuccess}    id:H
 ${ReferAFriendShareAgainButton}    id:w
