@@ -13,6 +13,9 @@ Please follow the link below:
 # Instructions
 The project currently uses Google Chrome as the browser. If you want to use a different browser:
 1. Go to Browser.robot file under Config folder
+2. In line 9 change "Chrome" to:
+- "Firefox" (for firefox)
+- "edge" (for ms edge)
 
 If you are using Windows OS, please do this following changes:
 1. In ReferAFriend.robot file, change "CMD" to "CTRL" on line 20 and 22.
